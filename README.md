@@ -1,7 +1,8 @@
 ![Robot 64](./Robot%2064%20Logo.webp)
 <p align="center">
-# Robot 64 documentation
+ **Robot 64 documentation**
 </p>
+
 > [!NOTE]
 > __I am currently working on the `README.md`.__
 > 
