@@ -1,6 +1,6 @@
 ![Robot 64](./Robot%2064%20Logo.webp)
 <p align="center">
- **Robot 64 documentation**
+ <b>Robot 64 documentation</b>
 </p>
 
 > [!NOTE]
